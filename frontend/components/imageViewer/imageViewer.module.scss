@@ -1,0 +1,21 @@
+.root{
+
+}
+
+.extra{
+    max-width: 180px;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.image{
+    cursor: pointer;
+}
+
+// .preview{
+//     :global(.ant-modal-content){
+//         background-color: transparent;
+//         box-shadow:none;
+//     }
+// }
